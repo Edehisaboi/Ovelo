@@ -1,6 +1,8 @@
 [submodule "Moovio"]
 	path = Moovio
 	url = https://github.com/Edehisaboi/Moovio.git
+	branch = main
 [submodule "moovio-api"]
 	path = moovio-api
 	url = https://github.com/Edehisaboi/moovio-api.git
+	branch = main
