@@ -1,8 +1,8 @@
-[submodule "Moovio"]
-	path = Moovio
+[submodule "ovelo-ui"]
+	path = ovelo-ui
 	url = https://github.com/Edehisaboi/ovelo-ui.git
 	branch = main
-[submodule "moovio-api"]
-	path = moovio-api
+[submodule "ovelo-api"]
+	path = ovelo-api
 	url = https://github.com/Edehisaboi/ovelo-api.git
 	branch = main
