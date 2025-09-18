@@ -1,7 +1,8 @@
 ## Ovelo
 
  <p align="center">
-   <img alt="Ovelo Logo" src="ovelo-ui/src/assets/images/icon.png" width="140" />
+   <img alt="Ovelo Logo" src="<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/5cf4c15b-3ef9-4825-ad8a-feca77b4e1b5" />
+" width="140" />
   <br/>
   <em>Identify movies and TV shows from short real‑time clips.</em>
 </p>
