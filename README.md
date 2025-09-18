@@ -1,9 +1,8 @@
-## Ovelo
+<p align="center">
+  <img width="100" height="100" alt="icongit" src="https://github.com/user-attachments/assets/9d6060b7-902b-453f-90e0-f1bcf157ead7" />
+</p>
 
-<img width="500" height="500" alt="icongit" src="https://github.com/user-attachments/assets/9d6060b7-902b-453f-90e0-f1bcf157ead7" />
-
-
-OVELO helps you recognize what you're watching—instantly. Point your phone at a screen, capture a short clip, and OVELO identifies the movie or TV show and returns clean metadata (title, poster, year, synopsis, ratings, and more).
+OVELO helps you recognize what you're watching instantly. Point your phone at a screen, capture a short clip, and OVELO identifies the movie or TV show and returns clean metadata (title, poster, year, synopsis, ratings, and more).
 
 This repository is the entry point for the OVELO project and links to the mobile client and backend services that power the experience.
 
@@ -116,8 +115,6 @@ Use the subproject READMEs for up‑to‑date values and environment setup.
 ---
 
 ## Screenshots
-
-Add images to `docs/screenshots/` and reference them here:
 
 ```
 ![Home](docs/screenshots/home.png)
