@@ -1,6 +1,6 @@
 ## Ovelo
 
-<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/2deccde8-6583-4d6e-96bc-1bf2daa53268" />
+<img width="500" height="500" alt="icongit" src="https://github.com/user-attachments/assets/9d6060b7-902b-453f-90e0-f1bcf157ead7" />
 
 
 OVELO helps you recognize what you're watching—instantly. Point your phone at a screen, capture a short clip, and OVELO identifies the movie or TV show and returns clean metadata (title, poster, year, synopsis, ratings, and more).
