@@ -119,8 +119,7 @@ Use the subproject READMEs for up‑to‑date values and environment setup.
 ---
 
 ## Screenshots
-<img width="240" height="500" alt="home" src="https://github.com/user-attachments/assets/690b8702-36c5-4462-ba93-b71d87dd9061" />
-<img width="240" height="500" alt="home" src="https://github.com/user-attachments/assets/c4ee31b2-3490-440b-b465-8f110edd616a" />
-<img width="240" height="500" alt="home" src="https://github.com/user-attachments/assets/1e40221f-25cd-41fc-82b7-0e676559c4e2" />
-<img width="240" height="500" alt="home" src="https://github.com/user-attachments/assets/3a281b90-a1d9-495d-858a-efe91270e098" />
----
+<img width="200" height="400" alt="home" src="https://github.com/user-attachments/assets/690b8702-36c5-4462-ba93-b71d87dd9061" />
+<img width="200" height="400" alt="home" src="https://github.com/user-attachments/assets/c4ee31b2-3490-440b-b465-8f110edd616a" />
+<img width="200" height="400" alt="home" src="https://github.com/user-attachments/assets/1e40221f-25cd-41fc-82b7-0e676559c4e2" />
+<img width="200" height="400" alt="home" src="https://github.com/user-attachments/assets/3a281b90-a1d9-495d-858a-efe91270e098" />
