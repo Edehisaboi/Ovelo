@@ -39,6 +39,10 @@ This repository is the entry point for the OVELO project and links to the mobile
   - AWS Transcribe (speech‑to‑text) and Rekognition (celebrity/actor)
   - TMDb and OpenSubtitles integrations for metadata and subtitles
   - LLM‑assisted decision fallback
+ 
+  <p align="left">
+  <img src="https://github.com/user-attachments/assets/ae94f519-462a-45c1-a1dc-53197036cc23" alt="demo" width="250" />
+  </p>
 
 See detailed setup and usage in each subproject README:
 
@@ -115,11 +119,8 @@ Use the subproject READMEs for up‑to‑date values and environment setup.
 ---
 
 ## Screenshots
-
-```
-![Home](docs/screenshots/home.png)
-![Camera](docs/screenshots/camera.png)
-![Results](docs/screenshots/results.png)
-```
-
+<img width="240" height="500" alt="home" src="https://github.com/user-attachments/assets/690b8702-36c5-4462-ba93-b71d87dd9061" />
+<img width="240" height="500" alt="home" src="https://github.com/user-attachments/assets/c4ee31b2-3490-440b-b465-8f110edd616a" />
+<img width="240" height="500" alt="home" src="https://github.com/user-attachments/assets/1e40221f-25cd-41fc-82b7-0e676559c4e2" />
+<img width="240" height="500" alt="home" src="https://github.com/user-attachments/assets/3a281b90-a1d9-495d-858a-efe91270e098" />
 ---
